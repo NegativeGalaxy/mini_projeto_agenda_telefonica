@@ -6,4 +6,4 @@ Boa noite, durante nossa atividade utilizamos de várias tecnicas vistas durante
 3-3: junção de strings, várias tecnicas de maniulação de string como len() para delimitar tamanhos da string, isalpha() para verificar se tem letras, strip() para tirar espaços em branco, e uma que não estava nos slides, isdigit para verificar se há números
 4-1: tabela verdade utilizando AND e OR, comandos condicionais como IF, ELSE e ElIF
 5-1: comando de repetição Whlle
-O while foi usado para criar uma repetição até que o objetivo fosse completo, no caso sendo inserir um nome, sobrenome, telefoe, celular, email, data de nascimento corretos, tambem foram utilizados várias condições e manipulações de string para delimitar caracteres no que foi pedido
+O while foi usado para criar uma repetição até que o objetivo fosse completo, no caso sendo inserir algo do menu ou um nome, sobrenome, telefoe, celular, email, data de nascimento corretos, tambem foram utilizados várias condições e manipulações de string para delimitar caracteres no que foi pedido
