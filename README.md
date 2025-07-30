@@ -1,4 +1,4 @@
-# mini_projeto_agenda_telefonica
+# mini_projeto_agenda_telefonica2
 Realização da atividade proposta com objetivo de criar uma agenda a partir do código Python.
 Boa noite, durante a atividade foi utilizado de várias tecnicas vistas durante as aulas como:
 3-1: tipos de váriaveis (str, int)
